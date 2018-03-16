@@ -1,0 +1,28 @@
+{
+    "name": "repay-theme",
+    "displayName": "REPAY Theme",
+    "description": "REPAY's branded Visual Studio Code theme",
+    "version": "1.0.0",
+    "publisher": "dintorf",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "REPAY Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/repay-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "keywords": [
+        "repay",
+        "theme",
+        "repay theme"
+    ]
+}
