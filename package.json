@@ -1,9 +1,13 @@
 {
     "name": "repay-theme",
     "displayName": "REPAY Theme",
-    "description": "REPAY's branded Visual Studio Code theme",
+    "description": "REPAY's company branded Visual Studio Code theme",
     "version": "1.0.0",
-    "publisher": "dintorf",
+    "publisher": "repay",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/repaygithub/repay-vscode-theme"
+	},
     "engines": {
         "vscode": "^1.20.0"
     },
