@@ -1,4 +1,4 @@
-# REPAY Theme
+# REPAY Theme 2.0
 
 REPAY's company branded Visual Studio Code theme
 
