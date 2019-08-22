@@ -1,9 +1,9 @@
 {
     "name": "repay-theme",
-    "displayName": "REPAY Theme",
+    "displayName": "REPAY Theme 2.0",
     "description": "REPAY's company branded Visual Studio Code theme",
-    "version": "1.0.2",
-    "publisher": "repay",
+    "version": "2.0.0",
+    "publisher": "repay-vscode",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/repaygithub/repay-vscode-theme"
@@ -17,7 +17,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "REPAY Theme",
+                "label": "REPAY Theme 2.0",
                 "uiTheme": "vs-dark",
                 "path": "./themes/repay-color-theme.json"
             }

@@ -4,8 +4,9 @@ All notable changes to the "repay-theme" extension will be documented in this fi
 
 ## [Unreleased]
 
-## [1.0.2] - 2019-08-22
+## [2.0.0] - 2019-08-22
 
+- Changing organizations
 - Changed status bar foreground to readable color
 - Changed active/inactive selected file foreground to readable color
 
